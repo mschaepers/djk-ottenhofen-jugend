@@ -315,6 +315,8 @@ p a:hover, li a:not(.btn):hover{ text-decoration-color: var(--color-ink); }
 /* =====================================================================
    COMPONENT: Exercise card
    ===================================================================== */
+[hidden]{ display:none !important; }
+
 .card-exercise{
   position:relative;
   display:flex; flex-direction:column; gap: var(--space-3);
