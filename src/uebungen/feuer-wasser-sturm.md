@@ -1,6 +1,6 @@
 ---
 layout: exercise.njk
-title: "„Feuer – Wasser – Sturm" & „Einfach kicken lassen""
+title: '„Feuer – Wasser – Sturm“ & „Einfach kicken lassen“'
 kategorie: aufwaermen-abschluss
 altersgruppen: [bambini, F]
 spielstaerke: alle

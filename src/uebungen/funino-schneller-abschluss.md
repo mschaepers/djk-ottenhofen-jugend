@@ -1,6 +1,6 @@
 ---
 layout: exercise.njk
-title: "FUNiño „Schneller Abschluss" (6-Sekunden-Regel)"
+title: 'FUNiño „Schneller Abschluss“ (6-Sekunden-Regel)'
 kategorie: spielformen
 altersgruppen: [E]
 spielstaerke: alle
