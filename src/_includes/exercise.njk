@@ -1,0 +1,41 @@
+---
+layout: base.njk
+---
+<section class="section section-detail">
+  <div class="container">
+
+    <nav class="breadcrumb-back" aria-label="Breadcrumb">
+      <a href="/uebungen/"><svg class="icon" style="transform:rotate(180deg)"><use href="#icon-chevron"></use></svg> Übungen</a>
+      <span aria-hidden="true">/</span>
+      <span>{{ site.kategorien[kategorie].label }}</span>
+    </nav>
+
+    <div class="detail-header">
+      <span class="tag tag--category">{{ site.kategorien[kategorie].icon }} {{ site.kategorien[kategorie].label }}</span>
+      <h1>{{ title }}</h1>
+      <p class="section-lead">{{ ziel }}</p>
+    </div>
+
+    <div class="detail-layout">
+
+      <aside class="detail-sidebar">
+        <div class="fact-card">
+          <h3>Kurz-Infos</h3>
+          <dl>
+            <div><dt>Phase</dt><dd>{{ site.phasen[phase] }}</dd></div>
+            <div><dt>Für wen</dt><dd>{% for ag in altersgruppen %}{{ site.altersgruppen[ag] }}{% if not loop.last %}, {% endif %}{% endfor %}</dd></div>
+            <div><dt>Spielstärke</dt><dd>{{ site.staerken[spielstaerke] }}</dd></div>
+          </dl>
+          <a class="btn btn-outline btn-block" href="/uebungen/">← Alle Übungen</a>
+        </div>
+      </aside>
+
+      <article class="detail-main">
+        {{ content | safe }}
+
+        <p class="card-source">Quelle: {% if quelleUrl %}<a href="{{ quelleUrl }}" target="_blank" rel="noopener">{{ quelle }}</a>{% else %}{{ quelle }}{% endif %}</p>
+      </article>
+
+    </div>
+  </div>
+</section>
