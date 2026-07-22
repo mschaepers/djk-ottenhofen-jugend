@@ -1,0 +1,27 @@
+---
+layout: base.njk
+title: "Trainingseinheiten"
+permalink: "/einheiten/"
+---
+<section class="section section-browse">
+  <div class="container">
+    <div class="section-head">
+      <h2>Trainingseinheiten</h2>
+      <p class="section-lead">Fertige Einheiten – aus mehreren Übungen zu einer kompletten Trainingsstunde kombiniert.</p>
+    </div>
+    <div class="card-grid">
+      {% for e in collections.einheiten %}
+      <a class="card-exercise" href="{{ e.url }}">
+        <div class="card-category"><span class="card-icon-badge">🗂️</span> {{ e.data.dauer }} Min</div>
+        <h4 class="card-title">{{ e.data.title }}</h4>
+        <p class="card-excerpt">Schwerpunkt {{ e.data.schwerpunkt }}</p>
+        <div class="card-meta">
+          {% for a in e.data.altersgruppen %}<span class="tag">{{ site.altersgruppen[a] }}</span>{% endfor %}
+        </div>
+      </a>
+      {% else %}
+      <p class="section-lead">Noch keine Einheiten angelegt.</p>
+      {% endfor %}
+    </div>
+  </div>
+</section>

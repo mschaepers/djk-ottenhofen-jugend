@@ -1,0 +1,27 @@
+---
+layout: base.njk
+title: "Trainingspläne"
+permalink: "/plaene/"
+---
+<section class="section section-browse">
+  <div class="container">
+    <div class="section-head">
+      <h2>Trainingspläne</h2>
+      <p class="section-lead">Saison- und Wochenpläne – Einheiten in Themenblöcken über mehrere Wochen.</p>
+    </div>
+    <div class="card-grid">
+      {% for p in collections.plaene %}
+      <a class="card-exercise" href="{{ p.url }}">
+        <div class="card-category"><span class="card-icon-badge">📅</span> Trainingsplan</div>
+        <h4 class="card-title">{{ p.data.title }}</h4>
+        <p class="card-excerpt">{{ p.data.zeitraum }}</p>
+        <div class="card-meta">
+          {% for a in p.data.altersgruppen %}<span class="tag">{{ site.altersgruppen[a] }}</span>{% endfor %}
+        </div>
+      </a>
+      {% else %}
+      <p class="section-lead">Noch keine Pläne angelegt.</p>
+      {% endfor %}
+    </div>
+  </div>
+</section>

@@ -4,6 +4,8 @@
   "logo": "https://djk-ottenhofen.de/wp-content/uploads/2023/09/mobil_logo-2.png",
   "nav": [
     { "text": "Übungen", "url": "/uebungen/" },
+    { "text": "Einheiten", "url": "/einheiten/" },
+    { "text": "Pläne", "url": "/plaene/" },
     { "text": "Für Eltern", "url": "/eltern/" },
     { "text": "Philosophie", "url": "/philosophie/" }
   ],

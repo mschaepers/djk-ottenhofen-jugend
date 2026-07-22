@@ -1,0 +1,44 @@
+---
+layout: base.njk
+---
+<section class="section section-detail">
+  <div class="container">
+    <nav class="breadcrumb-back" aria-label="Breadcrumb">
+      <a href="/plaene/"><svg class="icon" style="transform:rotate(180deg)" aria-hidden="true"><use href="#icon-chevron"></use></svg> Pläne</a>
+    </nav>
+
+    <div class="detail-header">
+      <span class="tag tag--category">📅 Trainingsplan</span>
+      <h1>{{ title }}</h1>
+      <p class="section-lead">
+        {% for a in altersgruppen %}{{ site.altersgruppen[a] }}{% if not loop.last %}, {% endif %}{% endfor %}{% if zeitraum %} · {{ zeitraum }}{% endif %}
+      </p>
+    </div>
+
+    {% if content %}<div class="detail-main">{{ content | safe }}</div>{% endif %}
+
+    {% for block in bloecke %}
+    <div class="field-block">
+      <h2>{{ block.thema }} {% if block.wochen %}<span class="count-badge">{{ block.wochen }}</span>{% endif %}</h2>
+      <div class="card-grid">
+        {% for slug in block.einheiten %}
+          {% set e = collections.einheiten | bySlug(slug) %}
+          {% if e %}
+          <a class="card-exercise" href="{{ e.url }}">
+            <div class="card-category"><span class="card-icon-badge">🗂️</span> Einheit · {{ e.data.dauer }} Min</div>
+            <h4 class="card-title">{{ e.data.title }}</h4>
+            <p class="card-excerpt">Schwerpunkt {{ e.data.schwerpunkt }}</p>
+            <div class="card-footer">
+              <span class="card-source">{% for a in e.data.altersgruppen %}{{ site.altersgruppen[a] }}{% if not loop.last %}, {% endif %}{% endfor %}</span>
+              <span class="card-cta">Ansehen <svg class="icon" aria-hidden="true"><use href="#icon-chevron"></use></svg></span>
+            </div>
+          </a>
+          {% else %}
+          <p class="card-source">⚠️ Einheit nicht gefunden: <code>{{ slug }}</code></p>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

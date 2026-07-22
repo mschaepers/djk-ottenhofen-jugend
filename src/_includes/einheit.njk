@@ -1,0 +1,46 @@
+---
+layout: base.njk
+---
+<section class="section section-detail">
+  <div class="container">
+    <nav class="breadcrumb-back" aria-label="Breadcrumb">
+      <a href="/einheiten/"><svg class="icon" style="transform:rotate(180deg)" aria-hidden="true"><use href="#icon-chevron"></use></svg> Einheiten</a>
+    </nav>
+
+    <div class="detail-header">
+      <span class="tag tag--category">🗂️ Trainingseinheit</span>
+      <h1>{{ title }}</h1>
+      <p class="section-lead">
+        Schwerpunkt <strong>{{ schwerpunkt }}</strong> ·
+        {% for a in altersgruppen %}{{ site.altersgruppen[a] }}{% if not loop.last %}, {% endif %}{% endfor %} ·
+        {{ dauer }} Min
+      </p>
+    </div>
+
+    {% if content %}<div class="detail-main">{{ content | safe }}</div>{% endif %}
+
+    {% for phase in phasen %}
+    <div class="field-block">
+      <h2>{{ phase.name }} <span class="count-badge">{{ phase.minuten }} Min</span></h2>
+      <div class="card-grid">
+        {% for slug in phase.uebungen %}
+          {% set ex = collections.uebungen | bySlug(slug) %}
+          {% if ex %}
+          <a class="card-exercise" href="{{ ex.url }}">
+            <div class="card-category"><span class="card-icon-badge">{{ site.kategorien[ex.data.kategorie].icon }}</span> {{ site.kategorien[ex.data.kategorie].label }}</div>
+            <h4 class="card-title">{{ ex.data.title }}</h4>
+            <p class="card-excerpt">{{ ex.data.ziel }}</p>
+            <div class="card-footer">
+              <span class="card-source">{{ site.phasen[ex.data.phase] }}</span>
+              <span class="card-cta">Details <svg class="icon" aria-hidden="true"><use href="#icon-chevron"></use></svg></span>
+            </div>
+          </a>
+          {% else %}
+          <p class="card-source">⚠️ Übung nicht gefunden: <code>{{ slug }}</code></p>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

@@ -9,6 +9,21 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => (a.data.title || "").localeCompare(b.data.title || "", "de"))
   );
 
+  eleventyConfig.addCollection("einheiten", (api) =>
+    api.getFilteredByGlob("src/einheiten/*.md")
+      .sort((a, b) => (a.data.title || "").localeCompare(b.data.title || "", "de"))
+  );
+
+  eleventyConfig.addCollection("plaene", (api) =>
+    api.getFilteredByGlob("src/plaene/*.md")
+      .sort((a, b) => (a.data.title || "").localeCompare(b.data.title || "", "de"))
+  );
+
+  // Referenz-Auflösung: findet ein Collection-Item per Datei-Slug
+  eleventyConfig.addFilter("bySlug", (items, slug) =>
+    (items || []).find((i) => i.fileSlug === slug)
+  );
+
   return {
     pathPrefix: "/djk-ottenhofen-jugend/",
     dir: { input: "src", includes: "_includes", data: "_data", output: "_site" },
