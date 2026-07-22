@@ -18,6 +18,12 @@ layout: base.njk
 
     <div class="detail-layout">
 
+      <article class="detail-main">
+        {{ content | safe }}
+
+        <p class="card-source">Quelle: {% if quelleUrl %}<a href="{{ quelleUrl }}" target="_blank" rel="noopener">{{ quelle }}</a>{% else %}{{ quelle }}{% endif %}</p>
+      </article>
+
       <aside class="detail-sidebar">
         <div class="fact-card">
           <h3>Kurz-Infos</h3>
@@ -29,12 +35,6 @@ layout: base.njk
           <a class="btn btn-outline btn-block" href="/uebungen/">← Alle Übungen</a>
         </div>
       </aside>
-
-      <article class="detail-main">
-        {{ content | safe }}
-
-        <p class="card-source">Quelle: {% if quelleUrl %}<a href="{{ quelleUrl }}" target="_blank" rel="noopener">{{ quelle }}</a>{% else %}{{ quelle }}{% endif %}</p>
-      </article>
 
     </div>
   </div>

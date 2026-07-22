@@ -366,7 +366,7 @@ p a:hover, li a:not(.btn):hover{ text-decoration-color: var(--color-ink); }
 .detail-meta-row{ display:flex; flex-wrap:wrap; gap:.5rem; }
 
 .detail-layout{ display:grid; grid-template-columns: 1fr; gap: var(--space-7); }
-.detail-sidebar{ display:flex; flex-direction:column; gap: var(--space-5); order:-1; }
+.detail-sidebar{ display:flex; flex-direction:column; gap: var(--space-5); }
 .detail-main{ display:flex; flex-direction:column; }
 
 .fact-card, .related-card{
