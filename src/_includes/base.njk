@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{% if title %}{{ title }} · {% endif %}{{ site.title }}</title>
+<meta name="description" content="{% if description %}{{ description }}{% else %}Trainer-Wissensdatenbank F/E-Jugend des DJK Ottenhofen: Übungssammlung, Für Eltern, Philosophie.{% endif %}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+
+<!-- Icon sprite (used via <use>) -->
+<svg style="display:none" aria-hidden="true">
+  <symbol id="icon-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7.5"></circle><line x1="21" y1="21" x2="16.4" y2="16.4"></line></symbol>
+  <symbol id="icon-menu" viewBox="0 0 24 24"><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="18" x2="21" y2="18"></line></symbol>
+  <symbol id="icon-chevron" viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"></polyline></symbol>
+  <symbol id="icon-external" viewBox="0 0 24 24"><polyline points="8 7 17 7 17 16"></polyline><line x1="17" y1="7" x2="7" y2="17"></line></symbol>
+  <symbol id="icon-check" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></symbol>
+</svg>
+
+<a class="skip-link" href="#main-content">Zum Inhalt springen</a>
+
+<!-- =========================================================
+     SITE HEADER (shared chrome)
+     ========================================================= -->
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="/">
+      <img class="brand-logo" src="{{ site.logo }}" alt="{{ site.title }}">
+      <span class="brand-text">
+        <strong>{{ site.subtitle }}</strong>
+        <small>{{ site.title }}</small>
+      </span>
+    </a>
+
+    <nav class="main-nav" aria-label="Hauptnavigation">
+      {% for item in site.nav %}
+      <a class="nav-link{% if page.url == item.url %} is-active{% endif %}" href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.text }}</a>
+      {% endfor %}
+    </nav>
+
+    <details class="mobile-toggle">
+      <summary aria-label="Menü öffnen"><svg class="icon"><use href="#icon-menu"></use></svg> Menü</summary>
+      <div class="mobile-panel">
+        {% for item in site.nav %}
+        <a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.text }}</a>
+        {% endfor %}
+      </div>
+    </details>
+  </div>
+</header>
+
+<main id="main-content">
+{{ content | safe }}
+</main>
+
+<!-- =========================================================
+     SITE FOOTER (shared chrome)
+     ========================================================= -->
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div class="footer-brand">
+      <img class="footer-logo" src="{{ site.logo }}" alt="{{ site.title }}">
+      <p>Sportgemeinschaft seit 1956 · {{ site.subtitle }}</p>
+    </div>
+    <nav class="footer-nav" aria-label="Footer-Navigation">
+      <h4>Bereiche</h4>
+      {% for item in site.nav %}
+      <a href="{{ item.url }}">{{ item.text }}</a>
+      {% endfor %}
+    </nav>
+    <div class="footer-contact">
+      <h4>Kontakt</h4>
+      <p>Jugendleitung F/E-Jugend<br>jugend@djk-ottenhofen.de</p>
+      <p>DJK Ottenhofen e.V.<br>Sportgelände, Ottenhofen</p>
+    </div>
+  </div>
+  <div class="footer-bottom container">
+    <p>© 2026 DJK Ottenhofen e.V. — 70 Jahre Sportgemeinschaft</p>
+  </div>
+</footer>
+
+</body>
+</html>
