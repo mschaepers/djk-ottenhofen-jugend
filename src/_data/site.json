@@ -1,0 +1,20 @@
+{
+  "title": "DJK Ottenhofen Jugend",
+  "subtitle": "Trainer-Wissensdatenbank",
+  "logo": "https://djk-ottenhofen.de/wp-content/uploads/2023/09/mobil_logo-2.png",
+  "nav": [
+    { "text": "Übungen", "url": "/uebungen/" },
+    { "text": "Für Eltern", "url": "/eltern/" },
+    { "text": "Philosophie", "url": "/philosophie/" }
+  ],
+  "kategorien": {
+    "koordination": { "label": "Koordination / Athletik", "icon": "🤸" },
+    "technik": { "label": "Technik", "icon": "⚽" },
+    "spielformen": { "label": "Spielformen", "icon": "🎯" },
+    "kondition": { "label": "Kondition", "icon": "🏃" },
+    "aufwaermen-abschluss": { "label": "Aufwärmen / Abschluss", "icon": "🔥" }
+  },
+  "phasen": { "aufwaermen": "Aufwärmen", "hauptteil": "Hauptteil", "abschluss": "Abschluss" },
+  "staerken": { "alle": "Alle Stärken", "einsteiger": "Einsteiger", "fortgeschritten": "Fortgeschritten" },
+  "altersgruppen": { "bambini": "Bambini", "F": "F-Jugend", "E": "E-Jugend", "D": "D-Jugend", "C": "C-Jugend", "B": "B-Jugend", "A": "A-Jugend" }
+}
