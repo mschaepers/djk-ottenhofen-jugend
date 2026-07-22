@@ -1,0 +1,82 @@
+---
+layout: base.njk
+title: "Übungen"
+permalink: "/uebungen/"
+---
+<section class="section section-browse">
+  <div class="container">
+    <div class="section-head">
+      <h2>Übungssammlung</h2>
+      <p class="section-lead">Stöbere nach Kategorie oder finde in Sekunden die passende Übung für dein Training.</p>
+    </div>
+
+    <div class="browse-toolbar">
+      <form class="search-bar search-bar--large" role="search" action="#" onsubmit="return false;">
+        <svg class="icon" aria-hidden="true"><use href="#icon-search"></use></svg>
+        <input type="search" id="filter-search" placeholder="z. B. „Passen“, „Reaktion“, „Kondition“ …" aria-label="Übungen durchsuchen">
+      </form>
+
+      <div class="filter-group filter-chips" data-facet="kategorie" role="group" aria-label="Nach Kategorie filtern">
+        <button class="chip is-active" type="button" data-value="">Alle Kategorien</button>
+        {% for key, kat in site.kategorien %}
+        <button class="chip" type="button" data-value="{{ key }}">{{ kat.icon }} {{ kat.label }}</button>
+        {% endfor %}
+      </div>
+
+      <div class="filter-group filter-chips" data-facet="alter" role="group" aria-label="Nach Altersgruppe filtern">
+        <button class="chip is-active" type="button" data-value="">Alle Altersgruppen</button>
+        {% for key, label in site.altersgruppen %}
+        <button class="chip" type="button" data-value="{{ key }}">{{ label }}</button>
+        {% endfor %}
+      </div>
+
+      <div class="filter-group filter-chips" data-facet="staerke" role="group" aria-label="Nach Spielstärke filtern">
+        <button class="chip is-active" type="button" data-value="">Alle Stärken</button>
+        {% for key, label in site.staerken %}
+        {% if key != "alle" %}
+        <button class="chip" type="button" data-value="{{ key }}">{{ label }}</button>
+        {% endif %}
+        {% endfor %}
+      </div>
+
+      <div class="filter-group filter-chips" data-facet="phase" role="group" aria-label="Nach Trainingsphase filtern">
+        <button class="chip is-active" type="button" data-value="">Alle Phasen</button>
+        {% for key, label in site.phasen %}
+        <button class="chip" type="button" data-value="{{ key }}">{{ label }}</button>
+        {% endfor %}
+      </div>
+    </div>
+
+    <p id="filter-count" class="count-badge"></p>
+    <p id="filter-empty" class="section-lead" hidden>Keine Übung passt zu dieser Auswahl.</p>
+
+    <div class="card-grid" id="uebungen-grid">
+      {% for u in collections.uebungen %}
+      <a class="card-exercise"
+         href="{{ u.url }}"
+         data-kategorie="{{ u.data.kategorie }}"
+         data-alter="{{ u.data.altersgruppen | join(' ') }}"
+         data-staerke="{{ u.data.spielstaerke }}"
+         data-phase="{{ u.data.phase }}"
+         data-text="{{ (u.data.title + ' ' + u.data.ziel) | lower }}">
+        <div class="card-category"><span class="card-icon-badge">{{ site.kategorien[u.data.kategorie].icon }}</span> {{ site.kategorien[u.data.kategorie].label }}</div>
+        <h4 class="card-title">{{ u.data.title }}</h4>
+        <p class="card-excerpt">{{ u.data.ziel }}</p>
+        <div class="card-meta">
+          {% for a in u.data.altersgruppen %}
+          <span class="tag">{{ site.altersgruppen[a] }}</span>
+          {% endfor %}
+          <span class="tag">{{ site.staerken[u.data.spielstaerke] }}</span>
+        </div>
+        <div class="card-footer">
+          <span class="card-source">Quelle: {{ u.data.quelle }}</span>
+          <span class="card-cta">Details <svg class="icon"><use href="#icon-chevron"></use></svg></span>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+
+  </div>
+</section>
+
+<script src="/assets/js/filter.js" defer></script>
