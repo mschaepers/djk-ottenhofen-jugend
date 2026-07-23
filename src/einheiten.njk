@@ -9,9 +9,29 @@ permalink: "/einheiten/"
       <h2>Trainingseinheiten</h2>
       <p class="section-lead">Fertige Einheiten – aus mehreren Übungen zu einer kompletten Trainingsstunde kombiniert.</p>
     </div>
-    <div class="card-grid">
+    <div class="browse-toolbar">
+      <form class="search-bar search-bar--large" role="search" action="#" onsubmit="return false;">
+        <svg class="icon" aria-hidden="true"><use href="#icon-search"></use></svg>
+        <input type="search" id="filter-search" placeholder="Einheit suchen …" aria-label="Einheiten durchsuchen">
+      </form>
+
+      <div class="filter-group filter-chips" data-facet="alter" role="group" aria-label="Nach Altersgruppe filtern">
+        <button class="chip is-active" type="button" data-value="">Alle Jahrgänge</button>
+        {% for key, label in site.altersgruppen %}
+        <button class="chip" type="button" data-value="{{ key }}">{{ label }}</button>
+        {% endfor %}
+      </div>
+    </div>
+
+    <p id="filter-count" class="count-badge"></p>
+    <p id="filter-empty" class="section-lead" hidden>Nichts gefunden.</p>
+
+    <div class="card-grid js-browse-grid" id="uebungen-grid">
       {% for e in collections.einheiten %}
-      <a class="card-exercise" href="{{ e.url }}">
+      <a class="card-exercise"
+         href="{{ e.url }}"
+         data-alter="{{ e.data.altersgruppen | join(' ') }}"
+         data-text="{{ (e.data.title + ' ' + (e.data.schwerpunkt or e.data.zeitraum or '')) | lower }}">
         <div class="card-category"><span class="card-icon-badge">🗂️</span> {{ e.data.dauer }} Min</div>
         <h4 class="card-title">{{ e.data.title }}</h4>
         <p class="card-excerpt">Schwerpunkt {{ e.data.schwerpunkt }}</p>
@@ -29,3 +49,5 @@ permalink: "/einheiten/"
     </div>
   </div>
 </section>
+
+<script src="/assets/js/filter.js" defer></script>

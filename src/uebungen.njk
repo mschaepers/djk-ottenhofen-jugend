@@ -50,7 +50,7 @@ permalink: "/uebungen/"
     <p id="filter-count" class="count-badge"></p>
     <p id="filter-empty" class="section-lead" hidden>Keine Übung passt zu dieser Auswahl.</p>
 
-    <div class="card-grid" id="uebungen-grid">
+    <div class="card-grid js-browse-grid" id="uebungen-grid">
       {% for u in collections.uebungen %}
       <a class="card-exercise"
          href="{{ u.url }}"

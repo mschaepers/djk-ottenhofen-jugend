@@ -1,6 +1,6 @@
 (function () {
   var state = { kategorie: "", alter: "", staerke: "", phase: "", q: "" };
-  var cards = Array.prototype.slice.call(document.querySelectorAll("#uebungen-grid .card-exercise"));
+  var cards = Array.prototype.slice.call(document.querySelectorAll(".js-browse-grid .card-exercise"));
   var countEl = document.getElementById("filter-count");
   var emptyEl = document.getElementById("filter-empty");
   var searchEl = document.getElementById("filter-search");

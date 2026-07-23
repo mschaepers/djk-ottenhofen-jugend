@@ -9,9 +9,29 @@ permalink: "/plaene/"
       <h2>Trainingspläne</h2>
       <p class="section-lead">Saison- und Wochenpläne – Einheiten in Themenblöcken über mehrere Wochen.</p>
     </div>
-    <div class="card-grid">
+    <div class="browse-toolbar">
+      <form class="search-bar search-bar--large" role="search" action="#" onsubmit="return false;">
+        <svg class="icon" aria-hidden="true"><use href="#icon-search"></use></svg>
+        <input type="search" id="filter-search" placeholder="Plan suchen …" aria-label="Pläne durchsuchen">
+      </form>
+
+      <div class="filter-group filter-chips" data-facet="alter" role="group" aria-label="Nach Altersgruppe filtern">
+        <button class="chip is-active" type="button" data-value="">Alle Jahrgänge</button>
+        {% for key, label in site.altersgruppen %}
+        <button class="chip" type="button" data-value="{{ key }}">{{ label }}</button>
+        {% endfor %}
+      </div>
+    </div>
+
+    <p id="filter-count" class="count-badge"></p>
+    <p id="filter-empty" class="section-lead" hidden>Nichts gefunden.</p>
+
+    <div class="card-grid js-browse-grid" id="uebungen-grid">
       {% for p in collections.plaene %}
-      <a class="card-exercise" href="{{ p.url }}">
+      <a class="card-exercise"
+         href="{{ p.url }}"
+         data-alter="{{ p.data.altersgruppen | join(' ') }}"
+         data-text="{{ (p.data.title + ' ' + (p.data.schwerpunkt or p.data.zeitraum or '')) | lower }}">
         <div class="card-category"><span class="card-icon-badge">📅</span> Trainingsplan</div>
         <h4 class="card-title">{{ p.data.title }}</h4>
         <p class="card-excerpt">{{ p.data.zeitraum }}</p>
@@ -29,3 +49,5 @@ permalink: "/plaene/"
     </div>
   </div>
 </section>
+
+<script src="/assets/js/filter.js" defer></script>
