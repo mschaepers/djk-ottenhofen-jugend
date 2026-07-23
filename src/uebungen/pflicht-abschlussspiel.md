@@ -53,7 +53,7 @@ quelleUrl: "https://www.advance.football/jugendfussball-blog/fangspiele-im-fussb
 
 ## Coaching-Punkte
 
-**Grundregel: Kinder spielen lassen, Trainer motiviviert nur.**
+**Grundregel: Kinder spielen lassen, Trainer motiviert nur.**
 
 - **Keine taktischen Vorgaben:** Nicht reinrufen „Pass links!" oder „Dribbel rechts!" – die Kinder müssen selbst entscheiden lernen.
 
@@ -63,7 +63,7 @@ quelleUrl: "https://www.advance.football/jugendfussball-blog/fangspiele-im-fussb
 
 - **Spielfreude stehen lassen:** Es ist das Lern-Spiel im Training – Kinder sollen Spaß haben und den Ball spielen, nicht nervös sein.
 
-- **Fairness einfordern:** Nur bei Regelverstößen oder Unsportlichkeit eingreifen (Handspiel, Foul, schubsen) – kurz pfeifen, Rule erklären, weiterspielen.
+- **Fairness einfordern:** Nur bei Regelverstößen oder Unsportlichkeit eingreifen (Handspiel, Foul, schubsen) – kurz pfeifen, Regel erklären, weiterspielen.
 
 **Häufige Fehler & Korrektur:**
 - **Fehler:** Trainer coacht zu viel von der Seite → Korrektur: Selbst schweigen und nur motivieren.

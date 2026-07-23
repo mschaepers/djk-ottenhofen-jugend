@@ -53,7 +53,7 @@ quelleUrl: ""
 ## Coaching-Punkte
 
 - **Ballkontakt:** Der Ball sollte eng beim Fuß bleiben – nicht mehr als 1–1,5 m vor dem Körper. „Ball ist dein Freund" – halte ihn nah!
-- **Schrittlänge:** Kurze, schnelle Dribbel-Schritte um die Hütchen, dann wieder schneller sprinten – Rhythmus wechsel ist wichtig.
+- **Schrittlänge:** Kurze, schnelle Dribbel-Schritte um die Hütchen, dann wieder schneller sprinten – Rhythmuswechsel ist wichtig.
 - **Beidfüßigkeit:** Nicht immer mit dem starken Fuß dribbeln; im Slalom beide Seiten trainieren – rechts um ein Hütchen, links um das nächste.
 - **Blick:** Trotz hohem Tempo nicht nur auf den Ball schauen – Strecke überblicken, wissen, wo das nächste Hütchen ist.
 
@@ -63,7 +63,7 @@ quelleUrl: ""
   **Korrektur:** „Kleinere Berührungen! Der Ball hüpft nicht – du tippst ihn mehrmals an."
 
 - **Fehler:** Spieler laufen zu schnell um die Hütchen und „schneiden" den Weg ab, statt richtig zu dribbeln.  
-  **Korrektion:** „Erst kontrollieren, dann beschleunigen. Die Kurve ist nicht straight – fahre echten Slalom!"
+  **Korrektur:** „Erst kontrollieren, dann beschleunigen. Die Kurve ist nicht straight – fahre echten Slalom!"
 
 ---
 

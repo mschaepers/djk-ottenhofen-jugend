@@ -52,7 +52,7 @@ Tor mit Torwart
 2. Rest bleibt wie Phase 1 (Schuss an Schusslinie, einreihen).
 3. **Ziel:** Ballkontrolle unter Bewegung trainieren; der Schuss kommt nach anspruchsvollerer Vorbereitung.
 
-**Phase 3: Mit Abfällig-Aktion (3–4 Min, optional)**
+**Phase 3: Mit zusätzlichen Anforderungen (3–4 Min, optional)**
 1. Trainer gibt Kommando vor dem Schuss:
    - „Außenseite!" → Kind muss mit Außenseite schießen
    - „Innenrist!" → Innenrist

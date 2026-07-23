@@ -81,7 +81,7 @@ Trainer führt jeden Tier-Bewegungsablauf im Stehen vor; alle Kinder machen mit:
 - **Belastungswechsel-Training:** Krafttiere (Bär, Frosch) wechseln mit Schnelligkeits-Tieren (Schmetterling, Krabbe) — natürliche Regeneration während der Stationen.
 - **Motivation durch Spaß, nicht durch Wettkampf:** Es ist kein Rennen. Jedes Kind durchläuft in seinem Tempo; alle sind Gewinner.
 
-**Häufige Fehler & Korrektion:**
+**Häufige Fehler & Korrektur:**
 - *Kinder verstehen Frosch-Bewegung falsch (rennen statt springen):* Unklarheit in der Demo. → **Korrektur:** Trainer macht 3 Sprünge im Stehen vor (nicht während Erklärung, nach Erklärung), alle Kinder machen nach. Video-Clip hilft: 10 Sekunden echter Frosch springen zeigen.
 - *Krabbe-Position unsicher / Kinder fallen:* Zu großer Druck auf den Händen, schlechte Balance. → **Korrektur:** Trainer zeigt, wie man sicher sitzt (Hände nah am Körper, nicht zu weit weg). Erst im Stehen üben, dann durchlaufen. Bei Unsicherheit ein Trainer-Assistent „Sicherungs-Trainer" neben der Krabbe-Station.
 

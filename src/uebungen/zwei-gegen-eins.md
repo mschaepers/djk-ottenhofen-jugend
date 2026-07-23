@@ -59,8 +59,8 @@ quelleUrl: "https://training.advance.football/pages/uebungen_e-jugend_u11_traini
 - **Intelligente Positionierung:** Der 1er kann nicht beide 2er zugleich stellen. Strategie: Zentralen Raum blockieren, Randzonen riskieren, oder auf den Ballführenden pressen.
 - **Timing des Umschalts:** Nach Balleroberung ist sofort Tempo-Umschalt angesagt – nicht erst überlegen, sondern spielen!
 
-**Häufiger Fehler und Korrektur:**
-- *Fehler:* Der 1er gibt auf oder "wartet" auf einen Pass, statt aktiv zu pressings.  
+**Häufige Fehler und Korrekturen:**
+- *Fehler:* Der 1er gibt auf oder „wartet" auf einen Pass, statt aktiv zu Gegenpressing zu greifen.  
   *Korrektur:* „Nicht warten – auf den Ball zu! Aktiv drücken, dann hast du eine Chance!"
 
 **Umschalt-Moment (zentral für diese Übung):**

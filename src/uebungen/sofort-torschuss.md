@@ -33,7 +33,7 @@ quelleUrl: "https://training.advance.football/pages/uebungen_f-jugend-training"
 - Jede Gruppe führt Torschuss-Reihe durch; Tore werden gezählt.
 - Nach 1–2 Minuten wechselt die Gruppe: Gruppe 2 schießt jetzt, Gruppe 1 pausiert kurz (aktiv dehnen/locker traben).
 - Insgesamt 2–3 Durchgänge.
-- **Gewinnergruppe:** Die Gruppe mit den meisten Toren gewinnt – kleine Belohnung (z. B. dürfen zuerst trainieren, oder bekommten einen „Champion"-Zettel).
+- **Gewinnergruppe:** Die Gruppe mit den meisten Toren gewinnt – kleine Belohnung (z. B. dürfen zuerst trainieren, oder bekommen einen „Champion"-Zettel).
 
 **Dauer:** Insgesamt 6–10 Minuten, je nach Gruppengröße.
 
@@ -49,7 +49,7 @@ quelleUrl: "https://training.advance.football/pages/uebungen_f-jugend-training"
 
 **Häufige Fehler & Korrektur:**
 - *Zu weit weg schießen:* Kinder bleiben stehen und schießen aus 15 m. → **Korrektur:** Kurze Dribbling-Linie vorgeben, aus max. 6 m schießen lassen (Erfolgreicherlebnis!).
-- *Zu langsame Abläufe / langes Warten:* Einzelne Kinder joggeln rum statt schnell zu schießen. → **Korrektur:** Kommando geben „Schuss!" und Ball sofort holen – Rhythmus vorgeben, Musik helfen.
+- *Zu langsame Abläufe / langes Warten:* Einzelne Kinder joggen rum statt schnell zu schießen. → **Korrektur:** Kommando geben „Schuss!" und Ball sofort holen – Rhythmus vorgeben, Musik hilft.
 
 ---
 

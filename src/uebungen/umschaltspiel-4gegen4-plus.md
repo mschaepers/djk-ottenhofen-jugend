@@ -17,7 +17,7 @@ quelleUrl: ""
 **Tore:** Zwei kleine Tore (ca. 2 m breit) oder Endzonen an den beiden Grundlinien. Entweder Mini-Tore oder markierte Zonensignale (z. B. Farbige Hütchen-Quadrate).
 
 **Spieler:**
-- **Im Feld:** 4 Feldspielter pro Team (insges. 8 Spieler im Feld)
+- **Im Feld:** 4 Feldspieler pro Team (insges. 8 Spieler im Feld)
 - **Außen:** 2–4 neutrale Anspieler an den Seitenlinien (je 1–2 pro Seite), die NICHT ins Feld dürfen, aber von außen für die ballbesitzende Mannschaft spielen
 - Reservation/Auswechsel an der Seitenlinie
 
@@ -61,7 +61,7 @@ quelleUrl: ""
 - **Sofort oder schnell:** Entweder man passt auf den Ball zu (Gegenpressing), oder man fällt zurück – nie dazwischen stehen bleiben.
 - **Kommunikation:** Ein Ruf („Gegenpressing!" oder „Zurück!") hilft der ganzen Gruppe, synchron zu reagieren.
 
-**Häufige Fehler und Korrektionen:**
+**Häufige Fehler und Korrekturen:**
 - *Fehler:* Nach Ballgewinn spielen Spieler automatisch einen Sicherheitspass nach hinten statt nach vorne zu denken.  
   *Korrektur:* Trainer stoppt Spiel kurz: „Nach Ballgewinn – wer ist vorne? Direkt anbieten und spielen, keine Rückpass-Kette!"
 - *Fehler:* Anspieler stehen wie Pfosten und laufen nicht mit der Ballbewegung mit.  

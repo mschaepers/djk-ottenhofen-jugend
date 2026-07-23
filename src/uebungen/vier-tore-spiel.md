@@ -59,13 +59,13 @@ quelleUrl: ""
 **Breitenfußball:**
 - **Frühe Seitenwechsel:** „Statt mehrmals in der Mitte zu passen, spielt ihr schnell nach außen. Seitenwechsel öffnet die Verteidigung!"
 - **Passspiel in die Breite:** Außenspieler sollten früh angespielt werden – nicht nur zentrales Passspiel.
-- **Flankenvorbereitung:** Wer außen ist, kann flanken oder am Tor entlang dribbelln – nicht immer zurück.
+- **Flankenvorbereitung:** Wer außen ist, kann flanken oder am Tor entlang dribbeln – nicht immer zurück.
 
 **Defensive Raumabdeckung:**
 - **Beide Tore bewachen:** Verteidiger dürfen nicht nur eine Seite „zusperren". Die Raumdeckung geht über die ganze Breite.
 - **Positionsbewusstsein:** Ein Verteidiger muss wissen: Bin ich näher beim linken oder rechten gegnerischen Tor? – entsprechend positionieren.
 
-**Häufige Fehler und Korrektionen:**
+**Häufige Fehler und Korrekturen:**
 - *Fehler:* Das Team spielt nur immer auf dieselbe Seite (z. B. nur rechtes Tor), die Verteidiger merken sich dies.  
   *Korrektur:* „Wechselt die Seite – links, rechts, wieder links! Macht die Verteidigung verrückt."
 - *Fehler:* Spieler versuchen, wild zu schießen, statt kontrolliert zu spielen.  
@@ -75,7 +75,7 @@ quelleUrl: ""
 
 ## Varianten
 
-**Variante 1 – Nur Passvortore:** Torschüsse sind verboten; Tore zählen nur, wenn der Ball flach ins Tor gespielt wird (Kurpassspiel trainieren, keine Schützen-Dominanz).
+**Variante 1 – Nur Pass-Tore:** Torschüsse sind verboten; Tore zählen nur, wenn der Ball flach ins Tor gespielt wird (Kurpassspiel trainieren, keine Schützen-Dominanz).
 
 **Variante 2 – Nur Flankentore:** Ein Tor zählt nur, wenn der Abschluss unmittelbar aus einer Flanke kommt (von der Grundlinie oder vom Rand). Dies trainiert gezielt Flankenfußball und Timing.
 

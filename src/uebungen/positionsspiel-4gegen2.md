@@ -46,7 +46,7 @@ quelleUrl: ""
 
 3. **Ballverlust/Eroberung:**
    - Wenn die Jäger den Ball erobern → **sofort Rollenwechsel** oder neuer 4er-Spieler kommt rein
-   - Wenn ein Pass rausgrollt → Trainer wirft schnell einen neuen Ball rein, Jäger auf Null zurück
+   - Wenn ein Pass herausrollt → Trainer wirft schnell einen neuen Ball rein, Jäger auf Null zurück
 
 4. **Erfolg-Messung:**
    - Trainer zählt laut mit: „1... 2... 3... 4... 5..." (Passzahl)
@@ -70,7 +70,7 @@ quelleUrl: ""
 
 - **Bewusstes Freilaufen (ohne Ball):** Die 4er müssen sich **nach jedem Pass clever bewegen**, um wieder eine Annahmeoption zu werden. Nicht starr stehen bleiben. Seite anbieten, hinter dem Jäger weg, oder die Seite wechseln.
 
-- **Passdruck hochhalten:** Schnelle, flache Pässe erzwingen ein hohes Passi-Tempo. Längeres Dribbeln verlangsamt das Spiel und gibt den Jägern Zeit zu reagieren.
+- **Passdruck hochhalten:** Schnelle, flache Pässe erzwingen ein hohes Pass-Tempo. Längeres Dribbeln verlangsamt das Spiel und gibt den Jägern Zeit zu reagieren.
 
 - **Körperhaltung beim Empfang:** Der Ballempfänger sollte sich **„öffnen"** – also mit breiter Körperhaltung zum Spielfeld schauen, nicht weggewandt von den Jägern spielen. So sieht der nächste Pass schneller.
 

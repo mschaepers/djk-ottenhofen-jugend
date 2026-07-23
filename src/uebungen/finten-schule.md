@@ -45,7 +45,7 @@ Die Übung läuft in drei Stationen hintereinander ab. Insgesamt Dauer: ca. 35�
 - Erste Hütchen-Reihe mit 2–3 Metern Abstand vor der Startlinie.
 
 **Ablauf:**
-1. Spieler dritteln nacheinander los (nicht alle gleichzeitig, sonst Chaos).
+1. Spieler gehen nacheinander los (nicht alle gleichzeitig, sonst Chaos).
 2. Ball dribbelnd zum ersten Hütchen herangehen.
 3. Etwa 1–1,5 Meter vor dem Hütchen: Finte ausführen (Übersteiger oder Ausfallschritt), als würde man an einem Gegner vorbeigehen.
 4. Nach der Finte weiterdribbeln zum nächsten Hütchen.

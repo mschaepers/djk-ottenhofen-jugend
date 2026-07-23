@@ -35,7 +35,7 @@ quelleUrl: ""
 
 3. **Torabschluss oder Ballverlust:**
    - **Tor erzielt:** Jubel, kurze Bestätigung des Trainers, dann sofort raus mit der alten 3er-Gruppe und eine neue 3er-Gruppe ins Feld. Ball-Reset von der Mittellinie.
-   - **Ballverlust (Abfang durch 2er oder Dribbler verliert Ball):** Die 2er-Gruppe übernimmt sofort und hat eine Gegenattacke – sie spielen blitzschnell (mit Unterstützung eines weiteren Feldspielersauf der anderen Seite des Feldes, oder gegen Minitore) gegnerische Tore an. Dieser Umschalt trainiert die schnelle Transition.
+   - **Ballverlust (Abfang durch 2er oder Dribbler verliert Ball):** Die 2er-Gruppe übernimmt sofort und hat eine Gegenattacke – sie spielen blitzschnell (mit Unterstützung eines weiteren Feldspielers auf der anderen Seite des Feldes, oder gegen Minitore) gegnerische Tore an. Dieser Umschalt trainiert die schnelle Transition.
 
 4. **Rotation nach ca. 2–3 Minuten:** Rollen tauschen – die 3er-Gruppe wird zu 2ern, die 2er-Gruppe zur neuen 3er-Gruppe, und neue Spieler kommen vom Platz rein.
 
@@ -46,7 +46,7 @@ quelleUrl: ""
 - **Schnelles Abschließen:** In Überzahl zu lange zu kombinieren ist ineffizient. Nach 3–4 schnellen Pässen sollte ein Abschluss kommen, notfalls auch aus schwierigerer Position, um die numerische Überlegenheit zu nutzen.
 - **Bewegung in die Tiefe:** Ständig nach vorn suchen, nicht seitwärts zirkeln. Ein Pass in die Tiefe bricht die Abwehr auf.
 
-**Häufige Fehler und Korrektionen:**
+**Häufige Fehler und Korrekturen:**
 - *Fehler:* Die 3er spielen zu zentral, bilden eine Traube, kein Raum für schnelle Kombinationen.  
   *Korrektur:* Trainer unterbricht kurz, zeigt die Positionen: „Rechts breit, links breit, Mitte etwas versetzt – jeder hat seinen Raum."
 - *Fehler:* Nach Ballverlust ärgert sich die 3er-Gruppe statt schnell zu reagieren.  

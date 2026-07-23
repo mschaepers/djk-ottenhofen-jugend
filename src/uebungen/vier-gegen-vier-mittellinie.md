@@ -56,7 +56,7 @@ quelleUrl: "https://training.advance.football/pages/uebungen_e-jugend_u11_traini
 - **Schnelle Kombination:** Ist der Ball erst in der gegnerischen Hälfte, sollten max. 2–3 Pässe zum Abschluss kommen – nicht wieder zurückpassen zur Grundlinie.
 - **Abschluss-Mut:** Aus der gegnerischen Hälfte muss abgeschlossen werden – nicht zögern.
 
-**Häufige Fehler und Korrektionen:**
+**Häufige Fehler und Korrekturen:**
 - *Fehler:* Das Team spielt nur seitwärts in der eigenen Hälfte oder versucht, den Ball zum anderen Team zurückzupassen (Angst nach vorne).  
   *Korrektur:* „Schaut auf – ein Pass nach vorne! Es gibt immer eine Lücke – nutzt sie! In der anderen Hälfte gibt es Tore!"
 - *Fehler:* Spieler bleiben alle in der Defensive, keiner bietet sich nach vorne an.  

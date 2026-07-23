@@ -35,8 +35,8 @@ quelleUrl: "https://www.soccerdrills.de/magazin/komplettes-training/artikel/tors
    - Fehlschuss = bleibt in der aktuellen Liga und versucht es erneut
 3. **Aufstieg/Abstieg:**
    - Treffer in der 3. Liga → Kind reiht sich in der 2. Liga ein (nächster Durchgang)
-   - Treffer in der 2. Liga → aufstieg zur Bundesliga
-   - Treffer in der Bundesliga → aufstieg zu Champions League
+   - Treffer in der 2. Liga → Aufstieg zur Bundesliga
+   - Treffer in der Bundesliga → Aufstieg zu Champions League
    - Fehlschuss in einer Liga → bleibt dort, versucht nächstes Mal erneut
 4. **Abstieg (optional):** Wenn die Zeit lang wird und ältere Kinder schnell in CL aufsteigen – möglich: Fehlschuss in CL = Abstieg zur Bundesliga (erhöht Spannung).
 5. **Tempo:** Laufend ca. 10–15 Minuten. Wer am Ende am weitesten oben spielt, gewinnt (oder wer zuerst in CL kommt).

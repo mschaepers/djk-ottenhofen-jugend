@@ -24,7 +24,7 @@ quelleUrl: "https://www.soccerdrills.de/magazin/komplettes-training/"
 ## Ablauf
 
 1. **Einteilung:** Teile die Gruppe in Kleingruppen (2–3 Kinder) auf, eine Gruppe pro Station.
-2. **Startzeichen:** Trainer gibt Signal (Pfeiff). Jedes Kind startet mit Ball bei seiner Station.
+2. **Startzeichen:** Trainer gibt Signal (Pfiff). Jedes Kind startet mit Ball bei seiner Station.
 3. **Station 1 (Slalom, 2 Min):** Dribbling durch die Slalom-Hütchen mit enger Ballführung. Nach Durchlauf zurück zum Start. Tempo kontinuierlich erhöhen.
 4. **Station 2 (Enge Ballführung, 1,5 Min):** Schnelle Dribbling-Bewegungen in engem Kreis (rechts um die Hütchen, dann links). Fokus auf kleine Schritte und Ballkontakt mit Außenseite.
 5. **Station 3 (Schnell-Dribbling, 2 Min):** Freilauf über die Fläche – Ball führen mit schnellen Wendungen, spontane Richtungswechsel, Tempo maximal (aber unter Kontrolle).

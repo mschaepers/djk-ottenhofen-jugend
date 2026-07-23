@@ -45,18 +45,18 @@ quelleUrl: "https://www.advance.football/jugendfussball-blog/fangspiele-im-fussb
 ## Coaching-Punkte
 
 **Reaktion und Gegnerbewegung:**
-- **Früh erkennen:** Laufer müssen lernen, den Fänger im Auge zu behalten und frühzeitig die Richtung zu ändern, nicht erst, wenn er direkt hinter ihnen ist.
+- **Früh erkennen:** Läufer müssen lernen, den Fänger im Auge zu behalten und frühzeitig die Richtung zu ändern, nicht erst, wenn er direkt hinter ihnen ist.
 - **Kurs korrigieren:** Ein Spurt in eine völlig neue Richtung ist effektiver als nur leicht auszuweichen – wie bei echten Gegneraktionen im Spiel.
 
 **Schnelles Umschalten:**
 - **Mentale Schärfe:** Das schnelle Umschalten von Läufer zu Fänger trainiert die Reaktionsfähigkeit, die im Spiel beim Ballgewinn entscheidend ist (schnell aufs gegnerische Tor denken).
 - **Körper-Einsatz:** Wer gerade noch flüchtete, muss nun mit vollem Fokus jagen – das verlangt Konzentration.
 
-**Häufige Fehler und Korrektionen:**
+**Häufige Fehler und Korrekturen:**
 - *Fehler:* Ein Fänger gibt auf und läuft nicht mehr richtig. Oder Läufer verstecken sich außerhalb des Feldes.  
   *Korrektur:* Feld sehr klar begrenzen, Trainer korrigiert direkt: „Alle bleiben im Feld, Fänger geben nicht auf – volle Spannung!"
 - *Fehler:* Kinder verstehen das Umschalten nicht oder werden neuer Fänger und fühlen sich bestraft.  
-  *Korrektion:* Positives Framing: „Das ist nicht bestraft, das ist dein neuer Job – ab jetzt jagst du!" Trainer gibt ein Hochfive.
+  *Korrektur:* Positives Framing: „Das ist nicht bestraft, das ist dein neuer Job – ab jetzt jagst du!" Trainer gibt ein Hochfive.
 
 ## Varianten
 

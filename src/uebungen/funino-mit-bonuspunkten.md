@@ -37,7 +37,7 @@ quelleUrl: "https://fussballbasis.de/artikel/funino-im-kinderfussball-aufbau-reg
 - Ziel: Auf eines der beiden eigenen Tore (gegnerische Grundlinie) treffen
 
 **Punkte-Vergabe (wichtig – mit Kindern besprechen!):**
-1. **Normales Tor (ins Zieltor Ballkontakt)** = 1 Punkt
+1. **Normales Tor (Ballkontakt ins Zieltor)** = 1 Punkt
 2. **Tor nach Doppelpass** = 2 Punkte (Pass zu Mitspieler, dieser passt zurück, dann Tor)
 3. **Tor nach Seitenwechsel** = 2 Punkte (Ball wird von einem Zieltor zum anderen weit gespielt, dann Tor)
 

@@ -68,7 +68,7 @@ Trainer macht jedes Tier vor, Kinder machen es kurz stehend nach:
 ## Coaching-Punkte
 
 - **Beweglichkeit & Vielseitigkeit:** Nicht nur Laufen trainieren, sondern Robben, Krabbeln, Springen, Hüpfen — das trainiert alle Motor-Komponenten, die ein Kind im Fußball braucht.
-- **Phantasie & Freude:** Der Sinn ist nicht Perfektion, sondern dass Kinder gerne sich bewegen. Eine lustige Löwe ist wichtiger als eine technisch perfekte.
+- **Phantasie & Freude:** Der Sinn ist nicht Perfektion, sondern dass Kinder gerne sich bewegen. Ein lustiger Löwe ist wichtiger als eine technisch perfekte Bewegung.
 - **Individualisierung:** Jedes Kind macht die Bewegung auf seine Weise — keine Konkurrenz, kein Druck.
 - **Tempo & Intensität:** Tiere mit Sprinten (Löwe, Adler) wechseln mit langsamen Tieren (Elefant, Schlange) — natürlicher Belastungswechsel, Ausdauer und Kraftwechsel.
 - **Aufmerksamkeit & Reaktion:** Schnelle Wechsel trainieren auch Fokus — Kinder müssen hören und sofort reagieren.

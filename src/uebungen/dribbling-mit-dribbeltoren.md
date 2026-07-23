@@ -51,7 +51,7 @@ quelleUrl: "https://training.advance.football/pages/uebungen_f-jugend-training"
 ## Coaching-Punkte
 
 - **Ball eng führen:** Der Ball muss während des Durchfahrens eng beim Fuß sein – nicht voraus rollen (das zählt nicht als „durchdribbeltes Tor").
-- **Beide Füße nutzen:** Nicht immer mit dem starken Fuß dribbleln – rechts um das eine Hütchen, links um das nächste. Beide Seiten trainieren.
+- **Beide Füße nutzen:** Nicht immer mit dem starken Fuß dribbeln – rechts um das eine Hütchen, links um das nächste. Beide Seiten trainieren.
 - **Tempo variieren:** Nicht alle Tore mit gleicher Geschwindigkeit durchfahren – schnelle Tore zählen mehr Punkte (optional: 1 Punkt für langsam, 2 für schnell).
 - **Kopf hoch:** Kurz vor dem Tor hochschauen, wo die nächsten freien Tore sind oder wo Gegner sind.
 

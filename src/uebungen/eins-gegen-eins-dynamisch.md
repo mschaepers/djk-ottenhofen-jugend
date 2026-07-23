@@ -53,7 +53,7 @@ quelleUrl: "https://training.advance.football/pages/funino"
 ## Coaching-Punkte
 
 - **Raumerkennung:** „Wo ist freier Raum? Schau nach vorne, nicht immer auf den Ball."
-- **Tempo-Variieren:** Nicht immer gleich schnell dribbeln – schnelle Dribbel-Sprints sind effektiver als „langsaw aufbauen".
+- **Tempo-Variieren:** Nicht immer gleich schnell dribbeln – schnelle Dribbel-Sprints sind effektiver als „langsam aufbauen".
 - **Erste Berührung in Bewegung:** Der erste Ballkontakt sollte den Ball in die Laufrichtung zum Tor mitnehmen, nicht bremsen.
 - **Abschluss-Timing:** Rechtzeitig schießen, nicht „zu lange dribbeln" – im 1-gegen-1 wird man sonst eingeholt.
 

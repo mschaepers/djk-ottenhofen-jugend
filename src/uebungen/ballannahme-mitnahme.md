@@ -49,7 +49,7 @@ quelleUrl: ""
 
 - **Hochschauen ist König:** Bevor der Ball kommt, schon wissen, in welche Richtung man ihn nehmen will. Das spart Zeit im Spiel.
 - **Außenseite bevorzugt:** Mit der Fußaußenseite (Spann seitlich) annehmen → schneller im freien Raum als mit Innenseite.
-- **Erste Kontakt = Raum schaffen:** Nach vorne oder zur Seite, nie direkt zurück – das ist zu langsam und zu eng.
+- **Erster Kontakt = Raum schaffen:** Nach vorne oder zur Seite, nie direkt zurück – das ist zu langsam und zu eng.
 - **Sofort aktiv:** Kein Stopp nach Ballannahme. Mitnahme und sofort die nächste Aktion (Pass, Dribbel, Schuss).
 - **Häufige Fehler:**
   - *Zu langsame Ballannahme:* Spieler stoppt mit Sohle, wartet – Gegner kommt zu schnell ran. *Korrektur:* „Mit Außenseite mitgenommen, nicht gestoppt – der Ball soll weiterlaufen, nicht stehen."

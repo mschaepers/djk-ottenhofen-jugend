@@ -81,7 +81,7 @@ quelleUrl: "https://www.soccerdrills.de/magazin/komplettes-training/artikel/tors
 - **Motivation durch Farb-Identität:** Kinder mögen es, wenn sie „ihre" Farbe haben. Das Team-Gefühl ist wichtig.
 
 **Häufige Fehler & Korrektur:**
-- *Zu schnell drippeln und Ball verlieren:* Kind sprintet und verliert im Slalom den Ballkontakt. → **Korrektur:** Trainer fordert Verlangsamung auf: „Kontrolle, dann Schuss!" Erste Runde ohne Wettkampf nochmal langsam durchgehen.
+- *Zu schnell dribbeln und Ball verlieren:* Kind sprintet und verliert im Slalom den Ballkontakt. → **Korrektur:** Trainer fordert Verlangsamung auf: „Kontrolle, dann Schuss!" Erste Runde ohne Wettkampf nochmal langsam durchgehen.
 - *Falsches Tor treffen (obwohl die Farbe klar ist):* Verwirrung oder Unachtsamkeit. → **Korrektur:** Bei Ansage die Farbe laut wiederholen lassen: Trainer sagt „Rot!" und Kinder schreien „Rot!" zurück. So ist klar, welches Tor gemeint ist.
 
 ---

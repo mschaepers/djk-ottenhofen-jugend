@@ -57,7 +57,7 @@ quelleUrl: "https://www.soccerdrills.de/magazin/komplettes-training/"
 
 ## Coaching-Punkte
 
-- **Schnelligkeit fenstert:** Alter 6/7–12/13 ist das beste Schnelligkeitsfenster. Viele kurze, intensive Sprints sind ideal.
+- **Schnelligkeitsfenster:** Alter 6/7–12/13 ist das beste Schnelligkeitsfenster. Viele kurze, intensive Sprints sind ideal.
 - **Ballkontrolle unter Druck:** Spieler sollen auch im Tempo den Ball behalten – das ist spielnah und nicht trivial.
 - **Startreaktion:** Schneller Antritt (0–3 Meter) ist wichtiger als Höchstgeschwindigkeit – wer hat die schnellste Reaktion?
 - **Motivation durch Wettbewerb:** Wettkampf-Charakter sorgt für hohe Intensität und Freude – Spaß am Training ist wichtig.
@@ -65,7 +65,7 @@ quelleUrl: "https://www.soccerdrills.de/magazin/komplettes-training/"
 ### Häufige Fehler & Korrektur
 
 - **Fehler:** Spieler dribbelnd zu langsam, weil sie zu viel auf den Ball schauen.  
-  **Korrektur:** „Kopf hoch! Schau nach vorne. Der Ball bleibt auto bei deinem Fuß – mach schnelle Schritte!"
+  **Korrektur:** „Kopf hoch! Schau nach vorne. Der Ball bleibt automatisch bei deinem Fuß – mach schnelle Schritte!"
 
 - **Fehler:** Spieler sprinten los, ohne den Ball richtig zu kontrollieren; Ballverlust sofort.  
   **Korrektur:** „Erste 5 Meter: Ball mittig führen, dann Tempo. Nicht vollgas von Anfang an!"

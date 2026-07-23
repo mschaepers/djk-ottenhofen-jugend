@@ -24,7 +24,7 @@ Das Spiel funktioniert auch auf kleinerer Fläche (z. B. 20 × 15 Meter). Wichti
 
 Alle Kinder laufen locker im Feld herum. Trainer ruft nacheinander Kommandos. Bei jedem Ruf müssen Kinder sofort die richtige Aktion ausführen:
 
-1. **„Feuer!"** → Alle sprinten aus dem Feld raus, als würde es brennen (schnellesituation trainieren).
+1. **„Feuer!"** → Alle sprinten aus dem Feld raus, als würde es brennen (schnelle Situation trainieren).
 2. **„Wasser!"** → Alle werfen sich auf den Bauch und machen Schwimmbewegungen (oder hüpfen Frosch-Style).
 3. **„Sturm!"** → Alle umarmen schnell einen anderen Spieler oder eine Stange/Hütchen und halten fest (kein Sturm trägt sie weg).
 
@@ -54,7 +54,7 @@ Diese Variante trainiert Reaktion + Ballkontrolle + Orientierung im Feld.
 - **Sicherheit:** Kinder müssen miteinander aufpassen, damit es nicht zu Kollisionen kommt. Fairness und Rücksicht sind wichtig.
 - **Lautstärke:** Trainer-Rufe müssen deutlich und laut sein, sonst verstehen Kinder die Kommandos nicht. Pfeife kann helfen.
 - **Regeln klarmachen:** Vor dem Spiel kurz demonstrieren, was „Feuer", „Wasser" und „Sturm" jeweils bedeuten – nicht zu viel erklären, lieber eine Runde probieren.
-- **Mit Ball konzentrieren:** Bei Ball-Variante: Nicht zuviele Kommandos zu schnell hintereinander, sonst verlieren Kinder Ball oder bleiben stehen.
+- **Mit Ball konzentrieren:** Bei Ball-Variante: Nicht zu viele Kommandos zu schnell hintereinander, sonst verlieren Kinder Ball oder bleiben stehen.
 - **Ermüdung beachten:** Nach 2–3 Runden kurze Pause, 30–60 Sekunden lockeres Trippeln ohne Kommando.
 
 ## Varianten

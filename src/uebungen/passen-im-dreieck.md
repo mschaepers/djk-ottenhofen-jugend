@@ -49,7 +49,7 @@ quelleUrl: ""
 
 ## Coaching-Punkte
 
-- **Innenseite-Pass exakt:** Pass mit der **breiten Innenseite des Fußes** spielen – nicht mit Fußspitze (unpräzise) oder Außenseite (zu schwach kontrollierbar). Der Pass muss flach und genau zum Fuß des Mitspiel kommen.
+- **Innenseite-Pass exakt:** Pass mit der **breiten Innenseite des Fußes** spielen – nicht mit Fußspitze (unpräzise) oder Außenseite (zu schwach kontrollierbar). Der Pass muss flach und genau zum Fuß des Mitspielers kommen.
 
 - **Passwechsel aktiv:** Nach dem eigenen Pass **sofort in Bewegung gehen** – nicht warten, bis der Ball kommt. Das Dreieck funktioniert nur, wenn alle ständig aktiv sind.
 
@@ -63,7 +63,7 @@ quelleUrl: ""
 
 **Häufige Fehler & Korrektur:**
 - **Fehler:** Pässe gehen in die Spitze statt in die Innenseite → Korrektur: Trainer zeigt vor, lässt Kind nachahmen, mehrmals wiederholen.
-- **Fehler:** Spieler wartet nach eigehem Pass ab, anstatt zu laufen → Korrektur: „Nach dem Pass sofort weiter! Du läufst zur nächsten Ecke!"
+- **Fehler:** Spieler wartet nach eigenem Pass ab, anstatt zu laufen → Korrektur: „Nach dem Pass sofort weiter! Du läufst zur nächsten Ecke!"
 - **Fehler:** Zu lange am Ball halten statt schnell weiterzuspielen → Korrektur: „Zwei Kontakte max – nimm und pass!"
 
 ## Varianten

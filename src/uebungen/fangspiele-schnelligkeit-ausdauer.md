@@ -57,7 +57,7 @@ quelleUrl: "https://www.advance.football/jugendfussball-blog/fangspiele-im-fussb
 - **Kein Verletzungsrisiko:** Fangspiele sind sicher; kein Tackling, keine Kollisionen wie im regulären Spiel.
 - **Früh im Aufwärmen:** Kann direkt nach dem Einlaufen gestartet werden (Vorbereitung auf intensiveres Training).
 
-### Häufige Fehler & Korrektion
+### Häufige Fehler & Korrektur
 
 - **Fehler:** Fänger läuft nicht wirklich oder gibt schnell auf.  
   **Korrektur:** „Fänger, ihr seid die Jäger! Aktiv hinterher. Wenn ihr fangt, wird's leichter" (Rollentausch motiviert).
@@ -75,4 +75,4 @@ quelleUrl: "https://www.advance.football/jugendfussball-blog/fangspiele-im-fussb
 
 - **Punkte-Duell:** Team A (Flüchter) kriegt 1 Punkt pro erfolgreiche 20-Sekunden ohne gefangen zu werden; Team B kriegt 1 Punkt pro Fang. Erste mit 10 Punkten gewinnt.
 
-- **Mit Körper-Bewegungsaufgaben:** Beim Fangen muss der Fänger vor dem Etikett eine Aufgabe machen (z. B. Spin-Move machen), dann erst darf er fangen – macht Fänger interessanter.
+- **Mit Körper-Bewegungsaufgaben:** Beim Fangen muss der Fänger vor dem Tagging eine Aufgabe machen (z. B. Spin-Move machen), dann erst darf er fangen – macht Fänger interessanter.

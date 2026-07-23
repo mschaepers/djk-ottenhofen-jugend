@@ -50,15 +50,15 @@ quelleUrl: "https://training.advance.football/pages/funino"
 
 ## Coaching-Punkte
 
-- **Erster Kontakt in den freien Raum:** Der erste Ball-Kontakt sollte dich bereits Richtung Tor bewegen – nicht bremsen oder „zuwerfen".
+- **Erster Kontakt in den freien Raum:** Der erste Ballkontakt sollte dich schon in Richtung Tor bewegen – nicht bremsen oder „abspielend" anspielen.
 - **Tempowechsel nutzen:** Ein schneller Sprint (kurze Beschleunigung) täuscht den Verteidiger besser als kontinuierliches Dribbeln.
-- **Zwei-Tor-Varianten:** Mit 2 Toren muss der Verteidiger reagiv „laufen" – das Trainiert Reaktionsfähigkeit und Orientierung.
+- **Zwei-Tor-Varianten:** Mit 2 Toren muss der Verteidiger reaktiv „laufen" – das trainiert Reaktionsfähigkeit und Orientierung.
 - **Offensiv-Defensive Balance:** Verteidiger muss aktiv agieren, aber nicht risikoreich tackling machen – positionieren ist Schlüssel.
 
 ### Häufige Fehler & Korrektur
 
 - **Fehler:** Angreifer versucht zu lange zu dribbeln; Verteidiger holt auf.  
-  **Korrektur:** „Nach 2–3 Dribbel-Berührungen: Entscheidung treffen – schießen oder passen. Nicht zu lange ballen-spielen!"
+  **Korrektur:** „Nach 2–3 Dribbel-Berührungen: Entscheidung treffen – schießen oder passen. Nicht zu lange Ballspiel!"
 
 - **Fehler:** Verteidiger steht „zwischen" den beiden Toren zu passiv und lässt alles durchlaufen.  
   **Korrektur:** „Nah am Ball! Geh dem Angreifer entgegen – nicht warten, bis er auf dich zukommt."

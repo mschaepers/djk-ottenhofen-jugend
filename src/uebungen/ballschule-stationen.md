@@ -24,7 +24,7 @@ quelleUrl: ""
 ## Ablauf
 
 **Station 1 – Werfen & Fangen (2–3 Min):**
-1. Zwei Kinder stellen sich sich gegenüber (ca. 2–3 m Abstand, markiert mit Hütchen).
+1. Zwei Kinder stellen sich gegenüber (ca. 2–3 m Abstand, markiert mit Hütchen).
 2. Kind A wirft mit **unterhand** sanft zu B. B fängt mit beiden Händen.
 3. Nach 5–6 Würfen: Abstand um 1 m vergrößern, weitermachen.
 4. Ziel: Abstand bis zu 5 m.
@@ -52,7 +52,7 @@ quelleUrl: ""
 4. Hinweg: rechte Seite führen. Rückweg: linke Seite führen.
 5. Variation: Mit Außenseite dribbeln (andere Muskulatur trainieren).
 
-**Rotationsbeton:**
+**Rotationsablauf:**
 - Trainer gibt ein klares Signal (Pfeiff, „Station wechsel!").
 - Alle Kinder gehen zur nächsten Station im Uhrzeigersinn.
 - Kurze Übergabe (30–60 Sek.), dann startet nächster Durchlauf.

@@ -30,7 +30,7 @@ Hütchen-Sets in den vier Ecken des Feldes positionieren. Die Ecken sollten deut
 4. Kurze Verschnaufpause (5–10 Sekunden).
 5. Nächste Farbe wird gerufen. 8–10 Durchgänge pro Runde, 2–3 Runden insgesamt.
 
-**Pausen zwischen Rufen:** Trainer wartet etwa 3–5 Sekunden zwischen den Rufen, damit Kinder nicht zu früh „antizipiativ" losrennen.
+**Pausen zwischen Rufen:** Trainer wartet etwa 3–5 Sekunden zwischen den Rufen, damit Kinder nicht zu früh „antizipativ" losrennen.
 
 **Phase 2: Mit Ball (ab F-Jugend, 8–10 Minuten)**
 1. Kinder stehen mit Ball am Fuß in der Mitte.
@@ -60,6 +60,6 @@ Hütchen-Sets in den vier Ecken des Feldes positionieren. Die Ecken sollten deut
 
 - **Mit Staffel:** 2er-Teams: Kind A sprintet, danach die Partner-Person (B). Wer hat das Team zuerst 5× durchgebracht?
 - **Zusatzaufgaben in der Ecke:** In der Farb-Ecke muss jedes Kind hüpfen, einen Purzelbaum drehen, oder auf der Stelle hochspringen, bevor es zurückrennt.
-- **Rückwärts-Variante:** Auf dem Rückweg rückwärts laufen oder mit Skipping/Fersenlaufen zurück zur Mitte.
+- **Rückwärts-Variante:** Auf dem Rückweg rückwärts laufen oder mit Sprunglaufen/Fersenlaufen zurück zur Mitte.
 - **Memory-Modus (schwieriger):** Trainer ruft 2 Farben schnell hintereinander (z. B. „Rot – Blau!"). Kinder merken sie und sprinten erst zur Roten, dann zur Blauen Ecke ohne Stopp dazwischen.
 - **Ball hochheben:** In Phase 2: Nach der Dribbel-Ecke zurück zur Mitte, aber mit freier Hand den Ball in die Luft werfen und fangen.

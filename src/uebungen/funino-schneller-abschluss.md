@@ -62,12 +62,12 @@ Sobald ein Team den Ball gewinnt (Ballraub, Passinterception, gegnerischer Fehlp
 - **8-Sekunden-Regel:** Für schwächere oder jüngere Gruppen. Etwas mehr Zeit zum Kombinieren.
 - **4-Sekunden-Regel:** Für starke oder ältere E-Jugend. Sehr hohe Intensität, trainiert schnelle Entscheidungen.
 - **Mit Assist-Punkt:** Tor nach Pass = 2 Punkte, Tor nach eigenem Dribbel = 1 Punkt. Motiviert zu schnelleren Pässen.
-- **Two-Touch-Regel:** Max. 2 Ballkontakte pro Spieler. Erzwingt schnelles Passen.
+- **Zwei-Kontakt-Regel:** Max. 2 Ballkontakte pro Spieler. Erzwingt schnelles Passen.
 - **Mit Torwart:** Ein Spieler pro Team als TW. TW darf mit Händen spielen (Tor-Bereich). Macht Abschluss schwerer.
 - **Doppel-Tempo:** 3 Sekunden schnelle Phase, dann 3 Sekunden normale Phase, wechsel. Trainiert Tempo-Wechsel.
 
 ## Sicherheit & Verwaltung
 
 - **Pausen:** Nach 10 Minuten kurze Trink-Pause (30–60 Sekunden). Die 6-Sekunden-Regel ist intensiv.
-- **Rückkehrer:** Neue Spieler erklären die Regel vorher, nicht while playing.
+- **Rückkehrer:** Neue Spieler erklären die Regel vorher, nicht während des Spiels.
 - **Feldbeobachtung:** Trainer sollte Position haben, von der aus er alle 4 Minitore und beide Teams überschauen kann.

@@ -53,11 +53,11 @@ quelleUrl: "https://trainerblog.fussball-training.org/kinderfussball/f-jugend-ue
 
 ## Coaching-Punkte
 
-- **Pass-Qualität:** Passer (A) muss zum Fuß des Mitspiel spielen, nicht ins Leere – Pass sollte mit der Innenseite oder Außenseite erfolgen (je nach Situation), dem Schützen den Abschluss ermöglichen.
+- **Pass-Qualität:** Passer (A) muss zum Fuß des Mitspielers spielen, nicht ins Leere – Pass sollte mit der Innenseite oder Außenseite erfolgen (je nach Situation), dem Schützen den Abschluss ermöglichen.
 
 - **Ballannahme-Technik:** Der Schütze (B) muss den Pass **aktiv entgegengehen**, nicht passiv warten. Ball mit Innenseite oder Außenseite stoppen, sofort zum Tor orientieren.
 
-- **Schuss-Setup:** Nach der Annahme soll der Schütze 1–2 kleine Kontrollschritte machen, um in Schuss-Position zu kommen – nicht zu weit vom Tor weg dribbbeln.
+- **Schuss-Setup:** Nach der Annahme soll der Schütze 1–2 kleine Kontrollschritte machen, um in Schuss-Position zu kommen – nicht zu weit vom Tor weg dribbeln.
 
 - **Abschluss-Technik:** Schuss mit Innenseite (sicherer, genauer) oder Spannschritt (Kraft), Blick auf Torbereich, durchziehen nach vorne folgen (Follow-through).
 
@@ -72,7 +72,7 @@ quelleUrl: "https://trainerblog.fussball-training.org/kinderfussball/f-jugend-ue
 
 - **Direkt-Abschluss:** Schütze nimmt nicht mit, sondern schießt sofort direkt nach Ballannahme (höhere Schwierigkeit, mehr Timing nötig).
 
-- **Slalom vor Schuss:** Schütze dribbelnt nach Annahme erst durch einen Slalom-Parcours (2–3 Hütchen vor dem Tor), dann erst abschießen (Ballkontrolle + Technik kombinieren).
+- **Slalom vor Schuss:** Schütze dribbelt nach Annahme erst durch einen Slalom-Parcours (2–3 Hütchen vor dem Tor), dann erst abschießen (Ballkontrolle + Technik kombinieren).
 
 - **Passwinkel variieren:** Passer spielt aus verschiedenen Winkeln an (von links-diagonal, von rechts-flach, von hinten-schräg), damit der Schütze unterschiedliche Situationen trainiert.
 

@@ -40,7 +40,7 @@ quelleUrl: ""
 4. **Pass B → C:** B passt sofort weiter zu C (am Endpunkt) – B wählt eine Passlinie, die C optimal erreicht
 
 5. **Aktion C:** 
-   - C nimmt den Ball an und **dribbelnt kurz an** (1–2 Kontakte, Richtung Tor)
+   - C nimmt den Ball an und **dribbelt kurz an** (1–2 Kontakte, Richtung Tor)
    - ODER schließt direkt ab, falls ein Tor vorhanden ist
    - Danach Ball zurück zum Trainer oder zum Startpunkt
 

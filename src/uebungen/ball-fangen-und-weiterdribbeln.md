@@ -20,7 +20,7 @@ quelleUrl: "https://www.bambini-fussballtraining.de/koordination-fussballtrainin
 ## Ablauf
 
 1. **Einstieg:** Trainer gibt Startsignal (Pfiff oder Handzeichen). Alle Kinder dribbelnd mit ihrem Fußball kreuz und quer durchs Feld – verschiedene Richtungen, variable Geschwindigkeit, ausweichen füreinander.
-2. **Fangen-Phase:** Der Trainer wartet ca. 20–30 Sekunden, dann wirft den Handball spontan einem Kind zu (nicht ankündigen, überraschung gehört dazu).
+2. **Fangen-Phase:** Der Trainer wartet ca. 20–30 Sekunden, dann wirft den Handball spontan einem Kind zu (nicht ankündigen, Überraschung gehört dazu).
 3. **Schnelle Reaktion:** Das Kind mit dem Fußball
    - fängt den Handball sofort mit beiden Händen oder mit einer Hand
    - wirft ihn zurück zum Trainer (oder legt ihn ab)
