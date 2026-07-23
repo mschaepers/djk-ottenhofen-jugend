@@ -81,7 +81,11 @@ Optionaler Einleitungstext oder Coaching-Hinweis (kann auch leer bleiben).
 ```
 
 - `uebungen: [...]` enthält die **Slugs** der Übungen (siehe unten). Reihenfolge = Reihenfolge im Training.
-- **Richtwerte (validiert, DFB-konform):** F-Jugend 75 Min in 3 Phasen (≈ 18/30/27), E-Jugend 80 Min in 4 Phasen (~20 je). **Ein Schwerpunkt je Einheit.** Mitte ist der größte Block, Abschluss immer eine Spielform (Funino).
+- **Ein Schwerpunkt je Einheit**, Abschluss immer eine Spielform (Funino/Kleinfeld).
+- **Zwei erlaubte Phasenmodelle** (beide DFB-konform — `phasen:` nimmt beliebig viele Blöcke):
+  - **3-Phasen (SBFV):** Aufwärmen → Hauptteil → Abschluss, F-Jugend ≈ 75 Min (18/30/27), Hauptteil größter Block.
+  - **4-Block (DFB „Trainingsphilosophie Deutschland"):** Aktivierung → Spielphase 1 → Zwischenblock → Spielphase 2, F/E ≈ 90 Min (15/30/15/30), Bambini ≈ 70 (10/20/20/20).
+  Wähl das Modell, das zu dir passt — einfach die passenden `name`/`minuten` je Phase setzen.
 
 ---
 
