@@ -405,6 +405,90 @@ p a:hover, li a:not(.btn):hover{ text-decoration-color: var(--color-ink); }
 }
 
 /* =====================================================================
+   COMPONENT: Detail stat row (Einheit- / Plan-Kopf)
+   ===================================================================== */
+.detail-stats{ display:flex; flex-wrap:wrap; gap: var(--space-4); margin-top: var(--space-5); }
+.detail-stat{
+  display:flex; flex-direction:column; gap:.15rem;
+  background: var(--color-grey-100); border:1px solid var(--color-grey-200);
+  border-radius: var(--radius-md); padding: var(--space-3) var(--space-5);
+  min-width: 8.5rem;
+}
+.detail-stat-label{ font-size: var(--fs-100); font-weight: var(--fw-bold); text-transform:uppercase; letter-spacing:.05em; color: var(--color-grey-600); }
+.detail-stat-value{ font-size: var(--fs-400); font-weight: var(--fw-black); color: var(--color-ink); line-height:1.25; }
+.detail-stat--accent{ background: var(--color-yellow); border-color: var(--color-yellow); }
+.detail-stat--accent .detail-stat-label{ color: rgba(17,17,17,.65); }
+
+/* =====================================================================
+   COMPONENT: Phasen-Timeline (Einheit-Detail)
+   ===================================================================== */
+.timeline{ position:relative; display:flex; flex-direction:column; gap: var(--space-7); margin-top: var(--space-8); }
+.timeline::before{
+  content:""; position:absolute; left:1.5rem; top:1.5rem; bottom:1.5rem; width:2px;
+  background: var(--color-grey-300); z-index:0;
+}
+.timeline-item{ position:relative; z-index:1; display:grid; grid-template-columns: 3rem 1fr; gap: var(--space-5); }
+.timeline-marker{ display:flex; align-items:flex-start; justify-content:center; }
+.timeline-num{
+  display:flex; align-items:center; justify-content:center;
+  width:3rem; height:3rem; border-radius:50%; flex-shrink:0;
+  background: var(--color-ink); color: var(--color-yellow);
+  font-size: var(--fs-500); font-weight: var(--fw-black);
+  box-shadow: var(--shadow-sm);
+}
+.timeline-content{ min-width:0; padding-top:.5rem; }
+.timeline-item-head{ display:flex; flex-wrap:wrap; align-items:center; gap: var(--space-3); margin-bottom: var(--space-4); }
+.timeline-item-head h2{ font-size: var(--fs-500); }
+.tag--minutes{ background: var(--color-ink); border-color: var(--color-ink); color: var(--color-yellow); }
+.timeline-exercises{ display:flex; flex-direction:column; gap: var(--space-3); }
+.timeline-exercise{
+  display:flex; align-items:center; gap: var(--space-3);
+  background: var(--color-white); border:1px solid var(--color-grey-200); border-radius: var(--radius-md);
+  padding: var(--space-3) var(--space-4);
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+.timeline-exercise:hover{ border-color: var(--color-ink); box-shadow: var(--shadow-sm); transform: translateX(3px); }
+.timeline-exercise-body{ flex:1; min-width:0; display:flex; flex-direction:column; gap:.1rem; }
+.timeline-exercise-title{ font-weight: var(--fw-bold); font-size: var(--fs-300); }
+.timeline-exercise-meta{
+  display:block; color: var(--color-grey-600); font-size: var(--fs-100);
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+.timeline-exercise .card-cta{ flex-shrink:0; }
+
+@media (max-width: 560px){
+  .timeline-item{ grid-template-columns: 2.25rem 1fr; gap: var(--space-3); }
+  .timeline-num{ width:2.25rem; height:2.25rem; font-size: var(--fs-300); }
+  .timeline::before{ left:1.125rem; }
+}
+
+/* =====================================================================
+   COMPONENT: Themenblock (Plan-Detail)
+   ===================================================================== */
+.plan-block{
+  position:relative; overflow:hidden;
+  background: var(--color-grey-100); border:1px solid var(--color-grey-200);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6) var(--space-5) var(--space-5);
+  margin-top: var(--space-7);
+}
+.plan-block::before{ content:""; position:absolute; top:0; left:0; right:0; height:5px; background: var(--color-yellow); }
+.plan-block-head{ display:flex; align-items:flex-start; gap: var(--space-4); margin-bottom: var(--space-5); }
+.plan-block-num{
+  flex-shrink:0; display:flex; align-items:center; justify-content:center;
+  width:2.75rem; height:2.75rem; border-radius:50%;
+  background: var(--color-ink); color: var(--color-yellow);
+  font-size: var(--fs-400); font-weight: var(--fw-black);
+}
+.plan-block-head-text{ display:flex; flex-direction:column; gap:.4rem; }
+.plan-block-head-text h2{ font-size: var(--fs-500); }
+.tag--weeks{ background: var(--color-yellow); border-color: var(--color-yellow); color: var(--color-ink); align-self:flex-start; }
+
+@media (min-width: 640px){
+  .plan-block{ padding: var(--space-7) var(--space-6) var(--space-6); }
+}
+
+/* =====================================================================
    SECTION: Für Eltern
    ===================================================================== */
 .parents-layout{ display:grid; grid-template-columns:1fr; gap: var(--space-8); }

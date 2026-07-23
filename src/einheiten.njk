@@ -18,6 +18,10 @@ permalink: "/einheiten/"
         <div class="card-meta">
           {% for a in e.data.altersgruppen %}<span class="tag">{{ site.altersgruppen[a] }}</span>{% endfor %}
         </div>
+        <div class="card-footer">
+          <span class="card-source">{{ e.data.phasen.length }} Phasen</span>
+          <span class="card-cta">Ansehen <svg class="icon" aria-hidden="true"><use href="#icon-chevron"></use></svg></span>
+        </div>
       </a>
       {% else %}
       <p class="section-lead">Noch keine Einheiten angelegt.</p>

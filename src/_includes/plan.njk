@@ -10,16 +10,35 @@ layout: base.njk
     <div class="detail-header">
       <span class="tag tag--category">📅 Trainingsplan</span>
       <h1>{{ title }}</h1>
-      <p class="section-lead">
-        {% for a in altersgruppen %}{{ site.altersgruppen[a] }}{% if not loop.last %}, {% endif %}{% endfor %}{% if zeitraum %} · {{ zeitraum }}{% endif %}
-      </p>
+      <div class="detail-stats">
+        <div class="detail-stat">
+          <span class="detail-stat-label">Altersgruppen</span>
+          <span class="detail-stat-value">{% for a in altersgruppen %}{{ site.altersgruppen[a] }}{% if not loop.last %}, {% endif %}{% endfor %}</span>
+        </div>
+        {% if zeitraum %}
+        <div class="detail-stat detail-stat--accent">
+          <span class="detail-stat-label">Zeitraum</span>
+          <span class="detail-stat-value">{{ zeitraum }}</span>
+        </div>
+        {% endif %}
+        <div class="detail-stat">
+          <span class="detail-stat-label">Themenblöcke</span>
+          <span class="detail-stat-value">{{ bloecke.length }}</span>
+        </div>
+      </div>
     </div>
 
     {% if content %}<div class="detail-main">{{ content | safe }}</div>{% endif %}
 
     {% for block in bloecke %}
-    <div class="field-block">
-      <h2>{{ block.thema }} {% if block.wochen %}<span class="count-badge">{{ block.wochen }}</span>{% endif %}</h2>
+    <div class="plan-block">
+      <div class="plan-block-head">
+        <span class="plan-block-num">{{ loop.index }}</span>
+        <div class="plan-block-head-text">
+          <h2>{{ block.thema }}</h2>
+          {% if block.wochen %}<span class="tag tag--weeks">📅 {{ block.wochen }}</span>{% endif %}
+        </div>
+      </div>
       <div class="card-grid">
         {% for slug in block.einheiten %}
           {% set e = collections.einheiten | bySlug(slug) %}

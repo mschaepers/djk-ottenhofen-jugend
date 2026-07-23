@@ -12,54 +12,52 @@ quelleUrl: ""
 
 ## Aufbau
 
-**Feldgröße:** 20 x 15 m  
-**Spielerzahl:** 4–6 Spieler pro Gruppe (2 Reihen)  
-**Material:** 1 Ball pro Paar, ggf. 4–6 Markierungshütchen zur Feldmarkierung
-
----
+- **Feldgröße:** 20 × 15 m (für Phase 1–2), 20 × 20 m mit Tor (für Phase 3)
+- **Spielerzahl:** 4–6 Kinder pro Gruppe (zwei Reihen à 2–3 Spieler)
+- **Material:** 1 Ball pro Paar, 4–6 Markierungshütchen, 1 Tor/Techniktor (für Phase 3)
+- **Feldaufbau:** Zwei Reihen (A und B) stehen sich ca. 10 m gegenüber. Jeder Reihe hat eine kurze Zeile mit 1–2 m Abstand zur nächsten Person. Für Phase 3: Ein Tor (oder Hütchen-Tor, 2 m breit) am Ende des Feldes.
 
 ## Ablauf
 
-### Phase 1: Ballannahme mit Mitnahme (10–12 Min)
+### Phase 1: Grund-Mitnahme (10–12 Min)
 
-- Zwei Reihen bilden (A und B), ca. 10 m voneinander entfernt, sich gegenüber.
-- Spieler A1 passt zu Spieler B1.
-- B1 nimmt den Ball an und **orientiert seinen ersten Kontakt in den freien Raum** (links oder rechts seitlich, nicht geradeaus zurück zu A).
-- B1 dribbelt 2–3 Schritte in diese Richtung, dann passt er zu A2.
-- A2 macht das gleiche mit der anderen Seite.
-- Reihenfolge: A1 → B1 → A2 → B2 → A1 etc.
-- **Wichtig:** Jeder Spieler orientiert seinen ersten Kontakt **aus der Pässe-Richtung weg**, um Zeit und Platz zu gewinnen.
+1. Spieler A1 passt flach und präzise zu B1 (ca. 10 m, Bodenniveau).
+2. B1 schaut kurz hoch, bevor der Ball kommt → wo ist freier Raum? Links oder rechts?
+3. B1 nimmt den Ball an mit der **Außenseite** (Fußspann seitlich) und orientiert ihn sofort **zur Seite** oder **schräg vorwärts** — nicht direkt zurück zu A.
+4. B1 dribbelt 2–3 schnelle Schritte in die gewählte Richtung, Ball eng unter Kontrolle.
+5. B1 passt zu A2 (nächster in der A-Reihe). Gleiche Aktion andersrum.
+6. Wiederholungen: A1 → B1 → A2 → B2 → A1 etc. — kontinuierlich ca. 10–12 Min.
 
-### Phase 2: Mit erhöhtem Tempo (8–10 Min)
+### Phase 2: Tempo erhöht (8–10 Min)
 
-- Gleiche Struktur, aber:
-  - Der Pass wird schneller gespielt.
-  - Der Spieler hat weniger Zeit zum Nachdenken → Automatismus trainieren.
-  - Nach Mitnahme sofort abgeben, nicht stehen bleiben.
+1. Gleiche Struktur wie Phase 1.
+2. **Unterschied:** Pässe werden schneller gespielt (weniger Zeit zum Überlegen).
+3. Der Spieler muss automatisch reagieren – Hochschauen, schnelle Entscheidung, sofort Mitnahme nach vorn.
+4. Nach Mitnahme nicht innehalten, sondern direkt abgeben (kein Dribbeln, schnelle Ballzirkulation).
+5. Ziel: Der Ball sollte ca. alle 1–2 Sekunden die Reihen durchfließen.
 
-### Phase 3: Mit Tor oder Zielbereich (8–10 Min)
+### Phase 3: Mit Tor/Abschluss (8–10 Min)
 
-- Beide Reihen stehen an den Enden eines Feldes (ca. 20 m Länge).
-- Spieler A passt zu B (ohne Gegner).
-- B nimmt an und dribbelt 2–3 Meter in den freien Raum.
-- B schießt aufs Tor oder dribbelt über eine Ziellinie.
-- B passt dann zu nächstem Spieler in der anderen Reihe.
-- **Variante:** Wenn B aufs Tor schießt, zählt nur das Tor, wenn der erste Kontakt sauber war (nicht mit Rückseite oder unsicherer Ballannahme).
-
----
+1. Beide Reihen stehen sich am Ende eines 20 m langen Feldes gegenüber. Tor (oder Minittor/Hütchen-Tor) am Ende der einen Reihe.
+2. A passt zu B (kein Gegendruck).
+3. B nimmt an, orientiert sich zur Seite/vorn, dribbelt 2–3 m in den freien Raum.
+4. B schießt aufs Tor oder dribbelt über eine Ziellinie (ca. 3 m vor dem Tor).
+5. B passt dann zu nächstem in A-Reihe. Reihenfolge: A1 → B1 (Schuss) → A2 → B2 (Schuss) etc.
+6. **Variante:** Nur Tore zählen, wenn der erste Kontakt sauber war (Innen-/Außenseite, nicht mit Sohle oder unsicher).
 
 ## Coaching-Punkte
 
-- **Kopf heben vor Ballempfang:** Der Spieler sollte schon sehen, wo der freie Raum ist, bevor der Ball ankommt.
-- **Außenseite-Mitnahme:** Den Ball bevorzugt mit der Außenseite annehmen (Fußspann seitlich), um schneller in den freien Raum zu kommen.
-- **Richtung des ersten Kontakts:** Der Ball wird **nicht rückwärts** zum Passer genommen, sondern **zur Seite** oder **schräg nach vorne** in den Raum.
-- **Ballkontrolle:** Nach Mitnahme sollte der Ball sofort unter Kontrolle sein, nicht rollen gelassen werden.
-- **Aktion folgt:** Sofort nach Ballannahme eine Aktion (Pass, Dribbel, Schuss) – nicht statisch stehen bleiben.
-- **Fehlertoleranz:** Nicht jede Mitnahme wird perfekt – kleine Fehler akzeptieren, Trainer korrigiert gezielt.
+- **Hochschauen ist König:** Bevor der Ball kommt, schon wissen, in welche Richtung man ihn nehmen will. Das spart Zeit im Spiel.
+- **Außenseite bevorzugt:** Mit der Fußaußenseite (Spann seitlich) annehmen → schneller im freien Raum als mit Innenseite.
+- **Erste Kontakt = Raum schaffen:** Nach vorne oder zur Seite, nie direkt zurück – das ist zu langsam und zu eng.
+- **Sofort aktiv:** Kein Stopp nach Ballannahme. Mitnahme und sofort die nächste Aktion (Pass, Dribbel, Schuss).
+- **Häufige Fehler:**
+  - *Zu langsame Ballannahme:* Spieler stoppt mit Sohle, wartet – Gegner kommt zu schnell ran. *Korrektur:* „Mit Außenseite mitgenommen, nicht gestoppt – der Ball soll weiterlaufen, nicht stehen."
+  - *Zu weit weg angenommen:* Ball verliert sich von Körper – unkontrolliert. *Korrektur:* Kleinere Pässe starten, Ballkontakt eng halten.
 
-### Varianten
+## Varianten
 
-- **Mit passivem Gegner:** Ein Gegner folgt B nach dem Pass, drückt leicht zu → Druck erhöht Anforderung.
-- **Unterschiedliche Passstärken:** Häufig kurze, präzise Pässe; gelegentlich flache lange Pässe → Ballkontrolle unter verschiedenen Bedingungen.
-- **Mit Vorgabe:** Spieler B muss den Ball mit der schwächeren Seite oder der Außenseite annehmen.
-- **Dribbel + Abschluss:** Nach Mitnahme nicht sofort passen, sondern 5 m dribbeln und dann schießen.
+- **Mit passivem Gegner:** Ein Gegner folgt dem Ballempfänger nach dem Pass und drückt leicht zu – realistischer, höhere Anforderung.
+- **Unterschiedliche Pass-Höhen:** Kurze, flache Pässe trainieren + später halbhohe/hohe Pässe für Vielseitigkeit.
+- **Mit Vorgabe:** „Heute nur mit schwächerer Seite!" oder „Nur Außenseite-Mitnahmen zählen!"
+- **Dribbel-Variante:** Nach Mitnahme nicht abgeben, sondern 5 m dribbeln + dann abschließen (trägt mehr zum Dribbel bei).

@@ -18,6 +18,10 @@ permalink: "/plaene/"
         <div class="card-meta">
           {% for a in p.data.altersgruppen %}<span class="tag">{{ site.altersgruppen[a] }}</span>{% endfor %}
         </div>
+        <div class="card-footer">
+          <span class="card-source">{{ p.data.bloecke.length }} Themenblöcke</span>
+          <span class="card-cta">Ansehen <svg class="icon" aria-hidden="true"><use href="#icon-chevron"></use></svg></span>
+        </div>
       </a>
       {% else %}
       <p class="section-lead">Noch keine Pläne angelegt.</p>
